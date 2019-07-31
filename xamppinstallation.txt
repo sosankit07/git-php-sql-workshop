@@ -1,0 +1,12 @@
+1.Go to https://www.apachefriends.org/index.html
+2.Click XAMPP for Windows button near Download portion
+3.Run the .exe file downloaded from website.
+4.Install with default configuration.
+5.You may have to click OK on a warning if you have User Account Control (UAC) activated on your computer. 
+6.Uncheck the "Learn more about Bitnami" box, then click Next
+7.Begin installing XAMPP.Click Next at the bottom of the window to do so. XAMPP will begin installing its files into the folder that you selected.
+8.Click Finish when prompted.
+9.Select a language. Check the box next to the American flag for English.
+10.Click Save. Doing so opens the main Control Panel page.
+11.Close the Control Panel and goto C:\xampp(or xampp folder in C: drive).
+12.Search for application file 'xampp-control' then right click on it and select option pin to taskbar.
